@@ -1,0 +1,5 @@
+/.venv
+/__pycache__
+/features_100
+/features_1000
+/landmarks
